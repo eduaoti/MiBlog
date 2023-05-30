@@ -1,0 +1,35 @@
+p,li,h1{
+    color: red;
+}
+#parrafo1{
+    text-align: center;
+    color: green;
+}
+p.texto1 {
+        font-size: 40xp;
+}
+hgroup h1{
+    font-size: 60px;
+}
+ul>li{
+    color:gold;
+}
+h1+h2{
+    color: green;
+}
+p~img{
+    text-align: justify;
+}
+li:htn-child(4){
+    font-size: 30px;
+}
+a:hover{
+    color: black;
+}
+a:link{
+    color: #FF0000;
+}
+a:visited{
+    color: blue;
+    
+}
